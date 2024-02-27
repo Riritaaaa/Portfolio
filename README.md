@@ -55,4 +55,6 @@
 **Website HEAW Food Delivery** : [Link Website](https://ritach2.wixsite.com/huew)
 * Users can select menu items and place orders.
 * It features pop-up notifications showcasing promotions.
+* 8 golden rules : Strive for consistency, Permit easy reversal of actions
+* 7 principles : Too many choices, Scarcity
 * Using Wix.
